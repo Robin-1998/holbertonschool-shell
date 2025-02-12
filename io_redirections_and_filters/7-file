@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" | tr -dc '[:Best School:]'
+echo "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
