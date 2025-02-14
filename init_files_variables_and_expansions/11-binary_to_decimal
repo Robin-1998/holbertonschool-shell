@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(((env $BINARY) # 10))
+echo $(((env $BINARY) # 101101))
