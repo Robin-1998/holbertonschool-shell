@@ -1,2 +1,2 @@
 #!/bin/bash
-env echo $(( $BREATH * $LOVE ))
+env echo $(($BREATH ** $LOVE))
