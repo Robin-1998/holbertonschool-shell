@@ -1,2 +1,2 @@
 #!/bin/bash
-env echo $((($POWER) / ($DIVIDE)))
+env echo $(($POWER / $DIVIDE))
