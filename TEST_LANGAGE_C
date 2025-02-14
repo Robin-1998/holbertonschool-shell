@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main (void)
+{
+
+        return 0;
+}
+
+**********************************************
+
+// Ceci est un commentaire sur une seule ligne
+/*
+Ceci est un commentaire
+sur plusieurs ligne
+*/
+
+/*
+int : declarer un nombre entier
+float : dclarer un nombre a virgule
+*/
